@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jangho Choi</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-01-31T15:33:36+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Jangho Choi</name>
+   <email>nextdinos@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Panking App 2017</title>
+   <link href="http://localhost:4000/2017/01/31/panking/"/>
+   <updated>2017-01-31T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2017/01/31/panking</id>
+   <content type="html">&lt;p&gt;Winner of 'The Korea Design Award', 2017&lt;/p&gt;
+&lt;p&gt;I have been involved building an interactive election and political app in Korea. Korea is preparing to elect a new president this year. I look forward to the impact of the synergy between the power of journalism and digital media. I want to contribute to the dynamic frontier of changing political landscape of Korea through digital journalism.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Twenty Media 2016</title>
+   <link href="http://localhost:4000/2016/01/31/twenty-media/"/>
+   <updated>2016-01-31T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2016/01/31/twenty-media</id>
+   <content type="html">&lt;p&gt;Featured appstore cover 'Micro Software' September, 2017&lt;/p&gt;
+&lt;p&gt;A concise summaries media that provides information for college student with iOS and Android app.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Django Girls Seoul 2015</title>
+   <link href="http://localhost:4000/2015/01/31/django-girls-seoul/"/>
+   <updated>2015-01-31T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2015/01/31/django-girls-seoul</id>
+   <content type="html">&lt;p&gt;Django Girls is a non-profit foundation that has chapters all over the world. I am fortunate enough to be part of the Seoul chapter as a coach. It is a wonderful opportunity for women in Korea to come together and learn the basics of coding, free of charge.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Code for Designers 2014</title>
+   <link href="http://localhost:4000/2014/01/31/code-for-designers/"/>
+   <updated>2014-01-31T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2014/01/31/code-for-designers</id>
+   <content type="html">&lt;p&gt;Featured magazine cover 'Micro Software' February, 2017&lt;/p&gt;
+&lt;p&gt;For several years, I have run Code for Designers and taught programming basics to Korean graphic designers to develop their communication with software engineers in the workplace. After completing an intensive nine week program, designers can create anything they can imagine.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
