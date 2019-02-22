@@ -4,7 +4,7 @@
  <title>Jangho Choi</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-02-08T22:43:13+09:00</updated>
+ <updated>2019-02-22T20:27:31+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jangho Choi</name>
@@ -13,52 +13,65 @@
 
  
  <entry>
-   <title>KEY-NYET</title>
-   <link href="http://localhost:4000/2018/03/ket-nyet.html"/>
+   <title>사회적 가치(Value) 실현을 위한 공정여행 프로젝트</title>
+   <link href="http://localhost:4000/2018/09/wt.html"/>
+   <updated>2018-09-20T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2018/09/wt</id>
+   <content type="html">&lt;p&gt;Work Together Foundation, 09/20/2018&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2017 코리아디자인어워드 수상작 Digital 부문</title>
+   <link href="http://localhost:4000/2018/03/designhouse.html"/>
    <updated>2018-03-14T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2018/03/ket-nyet</id>
-   <content type="html">&lt;li&gt;Empower the World’s Future Leaders™&lt;/li&gt;
-&lt;p&gt;NYET, as the Global Headquarter of our all international presences, presents directions and methodologies to enable our mission and strategic goals to be done in a detailed manner in the real world across the globe. KET is the Powerhouse for Innovation and Entrepreneurship™ for Korean communities.&lt;/p&gt;
+   <id>http://localhost:4000/2018/03/designhouse</id>
+   <content type="html">&lt;p&gt;Desgin House, 12/11/2017&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Panking App</title>
-   <link href="http://localhost:4000/2017/01/panking.html"/>
-   <updated>2017-01-31T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2017/01/panking</id>
-   <content type="html">&lt;li&gt;Winner of 'The Korea Design Award (Digital Media)', December 2017&lt;/li&gt;
-&lt;p&gt;I have been involved building an interactive election and political app in Korea. Korea is preparing to elect a new president this year. I look forward to the impact of the synergy between the power of journalism and digital media. I want to contribute to the dynamic frontier of changing political landscape of Korea through digital journalism.&lt;/p&gt;
+   <title>Heading for New Challenges in Twenties</title>
+   <link href="http://localhost:4000/2017/10/thedonggukpost.html"/>
+   <updated>2017-10-16T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2017/10/thedonggukpost</id>
+   <content type="html">&lt;p&gt;The Dongguk Post, 10/16/2017&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Twenty Media</title>
-   <link href="http://localhost:4000/2016/01/twenty-media.html"/>
-   <updated>2016-01-31T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2016/01/twenty-media</id>
-   <content type="html">&lt;li&gt;Featured app store cover, September 2016&lt;/li&gt;
-&lt;p&gt;A concise summaries media that provides information for college student with iOS and Android app.&lt;/p&gt;
+   <title>개방된 대학사회 꿈꾸는 미디어 공론장, '트웬티'</title>
+   <link href="http://localhost:4000/2016/05/bloter.html"/>
+   <updated>2016-05-01T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2016/05/bloter</id>
+   <content type="html">&lt;p&gt;Bloter, 05/01/2016&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Django Girls Seoul</title>
-   <link href="http://localhost:4000/2015/01/django-girls-seoul.html"/>
-   <updated>2015-01-31T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2015/01/django-girls-seoul</id>
-   <content type="html">&lt;li&gt;Django Girls is a non-profit foundation that has chapters all over the world.&lt;/li&gt;
-&lt;p&gt;I am fortunate enough to be part of the Seoul chapter as a coach. It is a wonderful opportunity for women in Korea to come together and learn the basics of coding, free of charge.&lt;/p&gt;
+   <title>글로벌 IT 기업 프레지, 유스트림, 로그미인에 가다</title>
+   <link href="http://localhost:4000/2015/05/platum.html"/>
+   <updated>2015-05-18T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2015/05/platum</id>
+   <content type="html">&lt;p&gt;Platum, 05/18/2015&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Code for Designers</title>
-   <link href="http://localhost:4000/2014/01/code-for-designers.html"/>
-   <updated>2014-01-31T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2014/01/code-for-designers</id>
-   <content type="html">&lt;li&gt;Featured magazine cover 'Micro Software', February, 2015&lt;/li&gt;
-&lt;p&gt;For several years, I have run Code for Designers and taught programming basics to Korean graphic designers to develop their communication with software engineers in the workplace. After completing an intensive nine week program, designers can create anything they can imagine.&lt;/p&gt;
+   <title>‘디자인 터미널’과 ‘키친부다페스트’를 통해 살펴본 헝가리 창업 환경</title>
+   <link href="http://localhost:4000/2015/04/platum.html"/>
+   <updated>2015-04-17T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2015/04/platum</id>
+   <content type="html">&lt;p&gt;Platum, 04/17/2015&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>개발자에 도전한 디자이너, 2달 만에 ‘일취월장’</title>
+   <link href="http://localhost:4000/2014/09/bloter.html"/>
+   <updated>2014-09-02T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2014/09/bloter</id>
+   <content type="html">&lt;p&gt;Bloter, 09/02/2014&lt;/p&gt;
 </content>
  </entry>
  
