@@ -4,7 +4,7 @@
  <title>Jangho Choi</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-02-22T20:27:31+09:00</updated>
+ <updated>2019-02-22T20:44:16+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jangho Choi</name>
@@ -18,6 +18,15 @@
    <updated>2018-09-20T00:00:00+09:00</updated>
    <id>http://localhost:4000/2018/09/wt</id>
    <content type="html">&lt;p&gt;Work Together Foundation, 09/20/2018&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>노마드 워커 이야기 Nomad Worker Story</title>
+   <link href="http://localhost:4000/2018/05/ridi.html"/>
+   <updated>2018-05-17T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2018/05/ridi</id>
+   <content type="html">&lt;p&gt;Ridi Books, 05/17/2018&lt;/p&gt;
 </content>
  </entry>
  
